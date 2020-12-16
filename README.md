@@ -1,9 +1,10 @@
 ### Hi there I'm Seung👋
 
 - 🔭 I’m currently student at University of Houston and majoring in Computer Science.
-- 🌱 I’m currently learning React and MySQL.
+- 🌱 I’m currently learning everything.
 - 👯 I’m always looking for challenging work opportunities ahead.
 - :heartpulse: Ask me about ...
+- 📫 How to reach me: seungej@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Open to work 
 
