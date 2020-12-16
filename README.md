@@ -7,6 +7,8 @@
 - 📫 How to reach me: seungej@gmail.com
 - ⚡ 2021 Goals: 
 
+
+
 ## Tools :pencil2:
 [<img alt="C++" width="5%" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=C++)
 [<img alt="Python" width="5%" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
@@ -21,6 +23,7 @@
 
 
 
+
 ## Let's Connect! :stuck_out_tongue_winking_eye:
 <p align="center">
 	<a href="https://github.com/seungej"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -29,6 +32,8 @@
 	<a href="https://www.instagram.com/seungej/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/seungej_"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
+
+
 
 
 ## Github Stats :compass:
