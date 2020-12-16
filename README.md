@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning everything.
 - 👯 I’m always looking for challenging work opportunities ahead.
 - :heartpulse: Pursuing a future career in Software Development.
-- 📫 How to reach me: seungej@gmail.com
 - ⚡ 2021 Goals: make a personal website, land a job, become a better developer by learning from others.
+- 📫 How to reach me: seungej@gmail.com
 
 
 
