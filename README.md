@@ -19,14 +19,10 @@
 
 
 ## Github Stats :
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seungej&show_icons=true)](https://github.com/seungej/github-readme-stats)
+[![GitHub stats]<img src="https://github-readme-stats.vercel.app/api?username=seungej&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungej&count_private=true&theme=dracula">
 
 <p href="https://github.com/seungej/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/seungej"></p>
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=seungej&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungej&count_private=true&theme=dracula">
 
-</p>
 
