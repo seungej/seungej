@@ -5,8 +5,7 @@
 - 👯 I’m always looking for challenging work opportunities ahead.
 - :heartpulse: Pursuing a future career in Software Development.
 - 📫 How to reach me: seungej@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Open to work 
+- ⚡ 2021 Goals: 
 
 ### Let's Connect! :stuck_out_tongue_winking_eye:
 <p align="center">
