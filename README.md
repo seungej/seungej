@@ -16,3 +16,7 @@
 	<a href="https://twitter.com/seungej_"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
+## Github Stats :
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seungej&show_icons=true)](https://github.com/seungej/github-readme-stats)
+
+<p href="https://github.com/seungej/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/seungej"></p>
